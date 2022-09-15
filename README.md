@@ -27,3 +27,13 @@ Revisão de React JS em monitoria do Recode Pro 2022
 
 6. Map (array)
 - Lista
+
+
+#### Para baixar:
+realize a opção *Download ZIP* ou clone o repositório (`git clone https://github.com/VanessaVargas/react-recode-2021.git`)
+
+#### Para instalar as dependências:
+`npm install`
+
+#### Para inicializar o projeto:
+`npm start`
