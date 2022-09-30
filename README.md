@@ -9,7 +9,7 @@ Revisão de React JS em monitoria do Recode Pro 2022
 
 2. Ambiente, JSX e renderização
 - nome do projeto
-- inseriu link CDN Bootstrap
+- inseriR link CDN Bootstrap
 - exclusão arquivos/imagens não utilizadas
 
 3. Componentes de classe e funcionais
@@ -28,6 +28,9 @@ Revisão de React JS em monitoria do Recode Pro 2022
 6. Map (array)
 - Lista
 
+7. Criação de rotas (inclusão posterior)
+- npm install react-router-dom
+- Routes.jsx
 
 #### Para baixar:
 realize a opção *Download ZIP* ou clone o repositório (`git clone https://github.com/VanessaVargas/react-recode-2021.git`)
