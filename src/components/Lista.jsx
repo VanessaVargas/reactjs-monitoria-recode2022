@@ -5,31 +5,26 @@ const lista = [
         lugar: "Noruega",
         imagem: "https://www.mapadeviajante.com.br/wp-content/uploads/2020/09/2020.02-Aurora-Capa-3.jpg",
     },
-
     {
         id: 2,
         lugar: "Noruega",
         imagem: require("../img/aurora-boreal.jpg"),
     },
-
     {
         id: 3,
         lugar: "Noruega",
         imagem: require("../img/aurora-boreal.jpg"),
     },
-
     {
         id: 4,
         lugar: "Noruega",
         imagem: "https://www.mapadeviajante.com.br/wp-content/uploads/2020/09/2020.02-Aurora-Capa-3.jpg",
     },
-
     {
         id: 5,
         lugar: "Noruega",
         imagem: require("../img/aurora-boreal.jpg"),
     },
-
     {
         id: 6,
         lugar: "Noruega",
@@ -55,7 +50,7 @@ function Item(props) {
 export default function Lista() {
     return (
         <div className="lista">
-            <div className="row row-cols-1 row-cols-md-3 g-4">
+            <div className="card">
                 {lista.map ((item, index) => (
                     <Item indice={index} key={index} />
                 ))}
