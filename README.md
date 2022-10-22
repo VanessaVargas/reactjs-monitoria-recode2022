@@ -1,6 +1,6 @@
 # Projeto de monitoria
 
-Revisão de React JS em monitoria do Recode Pro 2022
+Revisão de React JS em monitoria do Recode Pro 2022 - - repositório foi criado para fins de estudos
 
 1. Criação do projeto:
 - npx create-react-app monitoria-recode
@@ -40,3 +40,6 @@ realize a opção *Download ZIP* ou clone o repositório (`git clone https://git
 
 #### Para inicializar o projeto:
 `npm start`
+
+<hr>
+Feito com ❤️ por VanessaVargas
