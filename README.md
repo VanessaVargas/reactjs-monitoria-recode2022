@@ -1,6 +1,8 @@
-# Projeto de monitoria
+# Projeto de monitoria - React JS
 
-Revisão de React JS em monitoria do Recode Pro 2022 - - repositório foi criado para fins de estudos
+Revisão dos fundamentos de React JS em monitoria. Repositório criado para fins de estudos durante o programa Recode Pro, em Setembro de 2022.
+
+### Etapas realizadas:
 
 1. Criação do projeto:
 - npx create-react-app monitoria-recode
@@ -9,7 +11,7 @@ Revisão de React JS em monitoria do Recode Pro 2022 - - repositório foi criado
 
 2. Ambiente, JSX e renderização
 - nome do projeto
-- inseriR link CDN Bootstrap
+- inserirção link CDN Bootstrap
 - exclusão arquivos/imagens não utilizadas
 
 3. Componentes de classe e funcionais
@@ -32,8 +34,9 @@ Revisão de React JS em monitoria do Recode Pro 2022 - - repositório foi criado
 - npm install react-router-dom
 - Routes.jsx
 
+<hr>
 #### Para baixar:
-realize a opção *Download ZIP* ou clone o repositório (`git clone https://github.com/VanessaVargas/react-recode-2021.git`)
+realize a opção *Download ZIP* ou clone o repositório (`git clone https://github.com/VanessaVargas/reactjs-monitoria-recode2022.git`)
 
 #### Para instalar as dependências:
 `npm install`
